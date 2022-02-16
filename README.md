@@ -1,2 +1,2 @@
 # PubMedTrackerSite
-PubMedTracker Site 
+фронт часть компонента PubMedTracker
